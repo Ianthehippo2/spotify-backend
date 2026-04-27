@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/update-spotify",
+      "schedule": "*/1 * * * *"
+    }
+  ]
+}
